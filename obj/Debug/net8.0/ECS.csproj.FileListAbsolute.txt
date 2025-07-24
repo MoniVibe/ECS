@@ -1,0 +1,2 @@
+C:\Users\Moni\proj\obj\Debug\net8.0\ECS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moni\proj\obj\Debug\net8.0\ECS.csproj.CoreCompileInputs.cache
