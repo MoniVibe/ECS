@@ -1,0 +1,20 @@
+{
+  "CustomPosition": "Hot",
+  "CustomVelocity": "Hot",
+  "CustomName": "Cold",
+  "CustomDescription": "Cold",
+  "CustomMetadata": "Cold",
+  "CustomTag": "Cold",
+  "CustomUI": "Cold",
+  "CustomAudio": "Cold",
+  "CustomMesh": "Cold",
+  "CustomPhysics": "Hot",
+  "CustomTransform": "Hot",
+  "CustomRotation": "Hot",
+  "CustomScale": "Hot",
+  "CustomMass": "Hot",
+  "CustomForce": "Hot",
+  "CustomAcceleration": "Hot",
+  "CustomMomentum": "Hot",
+  "CustomEnergy": "Hot"
+} 

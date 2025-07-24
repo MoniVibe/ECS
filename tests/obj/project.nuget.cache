@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "svBsAPuo44g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moni\\proj\\tests\\test_ecs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moni\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
